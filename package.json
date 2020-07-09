@@ -1,0 +1,11 @@
+{
+  "name": "docgen_api",
+  "version": "1.0.0",
+  "description": "PDF and DOC generation using Google services",
+  "main": "index.js",
+  "author": "Deimantas Tumas",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
